@@ -1,0 +1,15 @@
+﻿Date,Category,Description,Amount,Type
+01-12-2025,Salary,December Salary,45000,Income
+03-12-2025,Rent,House Rent,12000,Expense
+05-12-2025,Food,Groceries,2500,Expense
+08-12-2025,Transport,Bus Pass,800,Expense
+10-12-2025,Shopping,Clothes,3000,Expense
+15-12-2025,Investment,Mutual Fund,2000,Expense
+20-12-2025,Freelance,Website Work,5000,Income
+01-01-2026,Salary,January Salary,45000,Income
+02-01-2026,Food,Groceries,1100,Expense
+04-01-2026,Transport,Fuel refill,700,Expense
+06-01-2026,Utilities,Internet bill,,Expense
+08-01-2026,Entertainment,OTT Subscription,299,Expense
+10-01-2026,Shopping,Footwear,2200,Expense
+12-01-2026,Freelance,Content Writing,6000,Income
